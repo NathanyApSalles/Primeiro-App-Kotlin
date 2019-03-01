@@ -16,6 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:name=".DetalheCliente">
+        </activity>
+        <activity android:name=".DetalheEmpresa">
+        </activity>
+        <activity android:name=".DetalheContato">
+        </activity>
+        <activity android:name=".DetalheServico">
+        </activity>
     </application>
 
 </manifest>
